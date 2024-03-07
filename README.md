@@ -1,4 +1,4 @@
-# bugswarm-javassist
+# bugswarm-javaparser
 
 ## To generate CFG:
 ``` bash
